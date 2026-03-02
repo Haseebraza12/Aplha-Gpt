@@ -118,16 +118,6 @@ The application will open in your default web browser. Enter a prompt in the tex
 
 ---
 
-## Team
-
-| Name                     | Role                        |
-|--------------------------|-----------------------------|
-| Haseeb Raza              | Co-founder and CEO          |
-| Ibrahim Nadeem           | Head of Operations          |
-| Muhammad Bilal Afzal Awan| Chief Technology Officer    |
-
----
-
 ## License
 
 This project is currently unlicensed. All rights reserved by the authors. For permissions or inquiries, please contact the repository owner.
